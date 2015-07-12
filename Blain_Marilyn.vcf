@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Blain;Marilyn
+FN:Marilyn Blain
+ORG:Looney Tunes
+TITLE:Raisin Packager
+TEL;WORK;VOICE:559-555-6565
+ADR;WORK:;;1 Carrot Ave.;Los Angels;CA;90583;United States of America
+EMAIL;PREF;INTERNET:marilyn@example.com
+REV:20140609T195243Z
+END:VCARD

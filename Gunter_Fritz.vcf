@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Gunter;Fritz
+FN:Fritz Gunter
+ORG:Looney Tunes
+TITLE:Grape Smusher
+TEL;WORK;VOICE:559-555-2333
+ADR;WORK:;;1 Carrot Ave.;Los Angels;CA;90583;United States of America
+EMAIL;PREF;INTERNET:fritz@example.com
+REV:20140609T195243Z
+END:VCARD

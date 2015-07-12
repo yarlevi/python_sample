@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Thomas;Mary
+FN:Mary Thomas
+ORG:Looney Tunes
+TITLE:Sr. Associate Raisin Design
+TEL;WORK;VOICE:559-555-2300
+ADR;WORK:;;1 Carrot Ave.;Los Angels;CA;90583;United States of America
+EMAIL;PREF;INTERNET:mary@example.com
+REV:20140609T195243Z
+END:VCARD

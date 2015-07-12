@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Harold;Davis
+FN:Davis Harold
+ORG:Looney Tunes
+TITLE:Chief Raisin Picker
+TEL;WORK;VOICE:559-555-2318
+ADR;WORK:;;1 Carrot Ave.;Los Angels;CA;90583;United States of America
+EMAIL;PREF;INTERNET:harold@example.com
+REV:20140609T195243Z
+END:VCARD

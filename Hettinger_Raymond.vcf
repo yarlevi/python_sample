@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Hettinger;Raymond
+FN:Raymond Hettinger
+ORG:Looney Tunes
+TITLE:VP Raisin Smushing
+TEL;WORK;VOICE:559-555-1212
+ADR;WORK:;;1 Carrot Ave.;Los Angels;CA;90583;United States of America
+EMAIL;PREF;INTERNET:raymond@example.com
+REV:20140609T195243Z
+END:VCARD

@@ -15,7 +15,7 @@ for i in range(1000):
 # Analyze
 
  if i % 3 == 0 or i % 5 == 0:
-            total= i*
+            total= total+i
 
 # Output
 print total

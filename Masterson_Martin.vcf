@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Masterson;Martin
+FN:Martin Masterson
+ORG:Looney Tunes
+TITLE:Asst Raisin Smusher
+TEL;WORK;VOICE:559-555-2348
+ADR;WORK:;;1 Carrot Ave.;Los Angels;CA;90583;United States of America
+EMAIL;PREF;INTERNET:martin@example.com
+REV:20140609T195243Z
+END:VCARD

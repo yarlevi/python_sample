@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Blair;Marks
+FN:Marks Blair
+ORG:Looney Tunes
+TITLE:VP Investor Relations
+TEL;WORK;VOICE:559-555-6513
+ADR;WORK:;;1 Carrot Ave.;Los Angels;CA;90583;United States of America
+EMAIL;PREF;INTERNET:blair@example.com
+REV:20140609T195243Z
+END:VCARD

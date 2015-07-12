@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Jones;David
+FN:David Jones
+ORG:Looney Tunes
+TITLE:Grape Ager
+TEL;WORK;VOICE:559-555-2379
+ADR;WORK:;;1 Carrot Ave.;Los Angels;CA;90583;United States of America
+EMAIL;PREF;INTERNET:david@example.com
+REV:20140609T195243Z
+END:VCARD
